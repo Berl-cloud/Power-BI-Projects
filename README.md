@@ -8,9 +8,8 @@ Welcome to the Power BI Projects repository! This repository houses a collection
 
 This folder contains the following sub-projects:
 
-- [Customer Feedback Dashboard](./Customer%20Feedback%20Dashboard/README.md): This project utilizes customer feedback data to provide valuable insights into various aspects of guest experiences. This dashboard built in Power BI, aims to help hotel management make data-driven decisions to improve customer satisfaction and enhance overall services.
-
-- [Sales Dashboard](./Sales%20Dashboard/README.md): This project utilizes sales data to provide valuable insights into various aspects of sales performance. This dashboard built in Power BI, aims to help retailers monitor sales performance and make data-driven decisions to increase revenue.
+- [Customer Feedback Dashboard](./Customer%20Feedback%20Dashboard/README.md): This project utilizes customer feedback data to provide valuable insights into various aspects of guest experiences.
+- [Sales Dashboard](./Sales%20Dashboard/README.md): This project utilizes sales data to provide valuable insights into various aspects of sales performance.
 
 ### Getting Started
 
